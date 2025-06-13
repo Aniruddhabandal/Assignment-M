@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Wireless Headphones",
+    "price": 299,
+    "image": "https://images.pexels.com/photos/3394651/pexels-photo-3394651.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Experience crystal-clear audio with our premium wireless headphones featuring active noise cancellation and 30-hour battery life.",
+    "category": "Electronics",
+    "inStock": true,
+    "rating": 4.8,
+    "features": [
+      "Active Noise Cancellation",
+      "30h Battery Life",
+      "Fast Charging",
+      "Premium Materials"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Professional Camera Lens",
+    "price": 1299,
+    "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Capture stunning photographs with this professional-grade camera lens designed for professional photographers and enthusiasts.",
+    "category": "Photography",
+    "inStock": true,
+    "rating": 4.9,
+    "features": [
+      "85mm f/1.4",
+      "Weather Sealed",
+      "Ultra-Sharp",
+      "Professional Grade"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Luxury Smartwatch",
+    "price": 799,
+    "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Stay connected in style with our luxury smartwatch featuring health monitoring, GPS, and premium materials.",
+    "category": "Wearables",
+    "inStock": true,
+    "rating": 4.7,
+    "features": [
+      "Health Monitoring",
+      "GPS Tracking",
+      "7-Day Battery",
+      "Premium Design"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Gaming Mechanical Keyboard",
+    "price": 189,
+    "image": "https://images.pexels.com/photos/841228/pexels-photo-841228.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Elevate your gaming experience with our premium mechanical keyboard featuring RGB lighting and tactile switches.",
+    "category": "Gaming",
+    "inStock": true,
+    "rating": 4.6,
+    "features": [
+      "Mechanical Switches",
+      "RGB Lighting",
+      "Gaming Optimized",
+      "Durable Build"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Wireless Charging Pad",
+    "price": 89,
+    "image": "https://images.pexels.com/photos/4219654/pexels-photo-4219654.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Charge your devices wirelessly with our sleek and efficient charging pad compatible with all Qi-enabled devices.",
+    "category": "Accessories",
+    "inStock": true,
+    "rating": 4.5,
+    "features": [
+      "Fast Charging",
+      "Universal Compatibility",
+      "Sleek Design",
+      "Safety Features"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Premium Coffee Machine",
+    "price": 449,
+    "image": "https://images.pexels.com/photos/4226805/pexels-photo-4226805.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "description": "Brew barista-quality coffee at home with our premium espresso machine featuring precision temperature control.",
+    "category": "Home & Kitchen",
+    "inStock": true,
+    "rating": 4.8,
+    "features": [
+      "15-bar Pressure",
+      "Milk Frother",
+      "Programmable",
+      "Premium Build"
+    ]
+  }
+]
